@@ -7,4 +7,5 @@ npm install
 npm install crypto-js
 
 Start 
+
 node main.js
